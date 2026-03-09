@@ -3,11 +3,11 @@
 
 <h2 align="center">There is not much to see, most things are privated anyways...</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixako0" alt="pixako0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixako-oss" alt="Pixako-oss" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixako0&show_icons=true&locale=en&layout=compact" alt="pixako0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixako-oss&show_icons=true&locale=en&layout=compact" alt="Pixako-oss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixako0&show_icons=true&locale=en" alt="pixako0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pixako-oss&show_icons=true&locale=en" alt="Pixako-oss" /></p>
 
 
 
