@@ -10,6 +10,7 @@ I'm Pixako, a 20yo Software Developer from the Netherlands with a fixation on De
 - MySQL
 - Python 3.4
 - C#, WinUI 3, UWP
+- Visual Basic
 - Sockets in most programming languages. Python, C, C++, C#; you name it.
 - Docker & Containerization
 - Diagrams~
