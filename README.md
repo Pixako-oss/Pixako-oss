@@ -3,13 +3,7 @@
 
 <h2 align="center">There is not much to see, most things are privated anyways...</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixako-oss" alt="Pixako-oss" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixako-oss&show_icons=true&locale=en&layout=compact" alt="Pixako-oss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pixako-oss&show_icons=true&locale=en" alt="Pixako-oss" /></p>
-
-
+I'm Pixako, a 20yo Software Developer from the Netherlands with a fixation on DevOps and all things Linux.
 
 # Work-qualifed
 - Laravel, PHP
@@ -17,6 +11,7 @@
 - Python 3.4
 - C#, WinUI 3, UWP
 - Sockets in most programming languages. Python, C, C++, C#; you name it.
+- Docker & Containerization
 - Diagrams~
 
 # Can (probably) do
